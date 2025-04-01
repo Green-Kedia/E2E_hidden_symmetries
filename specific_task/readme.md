@@ -44,6 +44,7 @@ I experimented with several VAE architectures to find the most effective represe
 ![alt text](image-3.png)
 ![alt text](image-5.png)
 ![9 digits](image-6.png)
+![alt text](image-11.png)
 4. **Rotation Equivariant Model**: Implemented a specialized architecture using the e2cnn library to explicitly enforce rotation equivariance. This approach encoded rotational symmetry directly into the model structure.
 
 ![alt text](image-4.png)
