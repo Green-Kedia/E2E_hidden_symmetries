@@ -113,7 +113,7 @@ This methodology successfully discovered non-trivial continuous symmetries (spec
 
 ![alt text](image-8.png)
 ![alt text](image-9.png)
-
+![alt text](image-10.png)
 ### Rotation Invariant Network
 For the bonus task of building a rotation invariant network, I implemented an approach that leverages the previously learned transformations in latent space:
 
